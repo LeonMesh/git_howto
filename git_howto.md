@@ -39,3 +39,8 @@ git branch <branch name>
 ```sh
 git branch -d <branch name>
 ```
+
+Объеденить текущую ветку с другой
+```sh
+git merge <branch name>
+```
