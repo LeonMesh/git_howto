@@ -28,11 +28,8 @@ git checkout <имя_ветки>
 Отображение всех веток
 ```sh
 git branch
-<<<<<<< HEAD
-=======
 ```
 Создание новой ветки
 ```sh
-git branch_new <имя ветки>
->>>>>>> branch_new
+git branch <имя ветки>
 ```
