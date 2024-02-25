@@ -44,3 +44,5 @@ git branch -d <branch name>
 ```sh
 git merge <branch name>
 ```
+
+Конфликты можно исправлять в ручную или с помощью VisualStudio(лучше в ручную, я попробовал он удалил все)
