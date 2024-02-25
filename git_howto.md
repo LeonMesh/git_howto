@@ -28,5 +28,8 @@ git checkout <имя_ветки>
 Отображение всех веток
 ```sh
 git branch
->>>>>>> command
+```
+Создание новой ветки
+```sh
+git branch_new <имя ветки>
 ```
